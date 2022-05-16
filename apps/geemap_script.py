@@ -3,12 +3,14 @@ import ee
 import geemap
 import pandas as pd
 
+service_account = 'chlorophyll51s@tugasakhir-2022.iam.gserviceaccount.com'
+credentials = ee.ServiceAccountCredentials(service_account, 'tugasakhir-2022-941e93fe6bb1.json')
+ee.Initialize(credentials)
+
 def L8_T1():
     
     st.header("Landsat 8 Surface Reflectance Tier 1")
 
-    geemap.ee_initialize()
-    
     start_year = 2013
     end_year = 2020
     study_area = ee.Geometry.Polygon([
