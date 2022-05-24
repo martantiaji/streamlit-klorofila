@@ -41,7 +41,7 @@ with st.sidebar:
     st.sidebar.info(
         """
         Aplikasi web ini dikelola ole Martanti Aji dengan dosen pembimbing Dr. Lalu Muhamad Jaelani S.T., M.Sc., PhD. 
-        Url aplikasi web ini yaitu <https://share.streamlit.io/martantiaji/streamlit-klorofila>
+        Url aplikasi web ini yaitu [Streamlit Klorofil-a](https://share.streamlit.io/martantiaji/streamlit-klorofila)
         
         Anda dapat mengakses referensi kode : [GitHub Aji](https://github.com/martantiaji/streamlit-klorofila.git)
 
