@@ -98,7 +98,7 @@ def L8_T1():
     col22.table(df)
 
     st.subheader("Line Plot Klorofil-a")
-    st.markdown("![](https://i.postimg.cc/zX3v15MV/chart-fix.jpg)")
+    st.markdown("![](https://i.postimg.cc/wT3r5btC/chart-fix.png)")
 
     #col22.markdown("![Timelapse Chlorophyll-a Tier 2](https://media.giphy.com/media/IdjzI6SLP8kDW46XgZ/giphy.gif)")
 
