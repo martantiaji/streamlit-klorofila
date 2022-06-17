@@ -6,6 +6,6 @@ keplergl
 leafmap
 localtileserver
 nbserverproxy
+pandas
 streamlit
 streamlit-option-menu
-
