@@ -10,6 +10,8 @@ ee.Initialize(credentials)
 def L8_T1():
     
     st.header("Landsat 8 Surface Reflectance Tier 1")
+    
+    st.markdown("![](https://i.postimg.cc/rsLHWRPL/legenda-2.png)")
 
     start_year = 2013
     end_year = 2020
