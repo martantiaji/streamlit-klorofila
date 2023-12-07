@@ -8,4 +8,4 @@ localtileserver
 nbserverproxy
 pandas
 streamlit
-streamlit_option_menu
+streamlit-option-menu
